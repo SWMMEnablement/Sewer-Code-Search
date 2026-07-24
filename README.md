@@ -32,7 +32,7 @@ Sewer-Code-Search helps engineers and developers quickly locate functions, varia
 
 ## License
 
-TBD
+MIT License (see LICENSE)
 
 ## Maintainer
 
